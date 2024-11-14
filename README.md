@@ -6,6 +6,6 @@ If in doubt about what logo to use read the [LogoManual_LePhare.pdf](LogoManual_
 
 In general for digital usage this is the standard:
 
-<img src="https://github.com/lephare-photoz/lephare-logo/blob/main/Logo/On%20White%20Background/Colour/Digital/LePhareLogo_RGB.png" alt="Default LePHARE logo" width="100px">
+<img src="https://github.com/lephare-photoz/lephare-logo/blob/main/Logo/On%20White%20Background/Colour/Digital/LePhareLogo_RGB.png" alt="Default LePHARE logo" width="250px">
 
 
