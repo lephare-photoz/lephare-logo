@@ -8,4 +8,6 @@ In general for digital usage this is the standard:
 
 <img src="https://github.com/lephare-photoz/lephare-logo/blob/main/Logo/On%20White%20Background/Colour/Digital/LePhareLogo_RGB.png" alt="Default LePHARE logo" width="250px">
 
+Raw files for this version are available in [png](https://github.com/lephare-photoz/lephare-logo/blob/main/Logo/On%20White%20Background/Colour/Digital/LePhareLogo_RGB.png) and [pdf](https://github.com/lephare-photoz/lephare-logo/blob/main/Logo/On%20White%20Background/Colour/Digital/LePhareLogo_RGB.pdf).
+
 
